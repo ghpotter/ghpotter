@@ -4,7 +4,7 @@ Python & Kotlin developer. Building LLM tooling and Android apps.
 
 ### About me
 
-I'm a developer working primarily in **Python** and **Kotlin**, interested in LLM tooling, Android apps, and automation. I like building things that scratch a genuine itch.
+I'm a developer working primarily in **Python** and **Kotlin**, interested in LLM tooling, Android apps, and automation.
 
 - 🔭 Currently working on LLM observability and Android computer vision
 - 🌍 Based in Seattle, WA
